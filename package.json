@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "import-icons-from-figma": "node import-icon-from-figma.mjs",
+    "import-icons-from-figma": "node import-icons-from-figma.mjs",
     "import-styles-from-figma": "node import-styles-from-figma.mjs"
   },
   "repository": {

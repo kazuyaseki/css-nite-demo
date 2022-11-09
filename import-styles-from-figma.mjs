@@ -7,7 +7,7 @@ const fileId = '';
 const figmaToken = FIGMA_TOKEN;
 
 const client = Figma.Client({
-  personalAccessToken: figmaToken,
+  personalAccessToken: FIGMA_TOKEN,
 });
 
 const fetchStylesData = async () => {
