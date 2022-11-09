@@ -1,0 +1,25 @@
+{
+  "name": "css-nite-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "import-icons-from-figma": "node import-icon-from-figma.mjs",
+    "import-styles-from-figma": "node import-styles-from-figma.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kazuyaseki/css-nite-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kazuyaseki/css-nite-demo/issues"
+  },
+  "homepage": "https://github.com/kazuyaseki/css-nite-demo#readme",
+  "dependencies": {
+    "figma-js": "^1.16.0",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^3.2.10"
+  }
+}
